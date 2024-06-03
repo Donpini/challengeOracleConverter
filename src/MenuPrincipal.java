@@ -6,7 +6,7 @@ public class MenuPrincipal {
     public void menuEnPantalla(){
         System.out.println("*******************************************************");
         System.out.println("1. COP -> USD (Peso Colombiano a Dolar)");
-        System.out.println("2. USD -> COP (Dolar a )");
+        System.out.println("2. USD -> COP (Dolar a Peso Colombiano)");
         System.out.println("3. COP -> EUR (Peso Colombiano a EUROS)");
         System.out.println("4. EUR -> COP (EUROS a Peso Colombiano)");
         System.out.println("5. EUR -> USD (EUROS a Dolar)");
