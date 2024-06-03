@@ -5,4 +5,19 @@
 </p>
 
 # Conversor de monedas
+Este es el primer desafio, pusto en el curso brindado por Alura-Latam y Oracle, el fin de esto es formar a desarrolladores Back y Front End y brindarles herramientas con el fin de que se puedan defender en el mundo de la programacion.
 
+# API Exchange Rate-API
+Para el desarrollo de este proyecto se consumio la API [Exchange Rate-API](https://www.exchangerate-api.com/), la cual nos ayuda a realizar conversiones a distintas divisas, si desea conocer el funcionamiento de esta API de clic [aqui](https://www.exchangerate-api.com/docs/pair-conversion-requests).
+
+#Funcionamiento
+Inicialmente el programa realiza la convercion entre divisas fijas por ejemplo:
+
+  1. COP -> USD (Peso Colombiano a Dolar)
+  2. USD -> COP (Dolar a )
+  3. COP -> EUR (Peso Colombiano a EUROS)
+  4. EUR -> COP (EUROS a Peso Colombiano)
+  5. EUR -> USD (EUROS a Dolar)
+  6. USD -> EUR (Dolar a EUROS)
+  7. seleccionar Monedas (Moneda1 -> Moneda2)
+  8. Salir
