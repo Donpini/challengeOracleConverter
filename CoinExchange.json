@@ -1,0 +1,26 @@
+[
+  {
+    "Moneda Nativa": "EUR",
+    "Moneda Seleccionada": "COP",
+    "Tasa De Cambio": 4168.7907,
+    "Cantidad Seleccionada": 30.0,
+    "Total De Conversion": 125063.721,
+    "Registro: ": "[03-06-2024 15:09:23]"
+  },
+  {
+    "Moneda Nativa": "COP",
+    "Moneda Seleccionada": "EUR",
+    "Tasa De Cambio": 2.3988E-4,
+    "Cantidad Seleccionada": 90000.0,
+    "Total De Conversion": 21.5892,
+    "Registro: ": "[03-06-2024 15:09:34]"
+  },
+  {
+    "Moneda Nativa": "USD",
+    "Moneda Seleccionada": "EUR",
+    "Tasa De Cambio": 0.9217,
+    "Cantidad Seleccionada": 100000.0,
+    "Total De Conversion": 92170.0,
+    "Registro: ": "[03-06-2024 15:09:41]"
+  }
+]
