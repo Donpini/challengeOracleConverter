@@ -21,3 +21,6 @@ Inicialmente el programa realiza la convercion entre divisas fijas por ejemplo:
   6. USD -> EUR (Dolar a EUROS)
   7. seleccionar Monedas (Moneda1 -> Moneda2)
   8. Salir
+En caso de que el usuario desea realizar la conversion de una moneda distinta, debe seleccionar los codigos de la moneda que requiere y por ultimo seleccionar la candidad que desea cambiar.
+
+
